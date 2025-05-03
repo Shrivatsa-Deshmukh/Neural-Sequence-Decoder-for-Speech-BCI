@@ -10,5 +10,13 @@ This implementation is inspired by the following resources:
 * [cffan/neural_seq_decoder](https://github.com/cffan/neural_seq_decoder/tree/master)
 * [fwillett/speechBCI](https://github.com/fwillett/speechBCI)
 * Article: [A High-Performance Speech Neuroprosthesis](https://www.nature.com/articles/s41586-023-06377-x) 
-* Dataset: [Data](https://datadryad.org/dataset/doi:10.5061/dryad.x69p8czpq) 
+* Dataset: [Data](https://datadryad.org/dataset/doi:10.5061/dryad.x69p8czpq)
+
+## Code Structure
+* train_model.py: Main script to start training.
+* neural_decoder_trainer.py: Core training and evaluation logic.
+* model.py: Defines the GRUDecoder model architecture.
+* dataset.py: Handles dataset loading and preprocessing.
+* augmentations.py: Contains data augmentation functions.
+* formatCompetitionData.ipynb: Notebook for initial data formatting.
 
