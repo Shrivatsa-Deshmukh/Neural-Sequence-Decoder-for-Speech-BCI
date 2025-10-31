@@ -1,6 +1,6 @@
 # Neural-Sequence-Decoder-for-Speech-BCI
 
-This repository contains code for training a neural sequence decoder, based on the work involving speech brain-computer interfaces (BCIs) as described in related publications and repositories.
+This repository contains info for training a neural sequence decoder, based on the work involving speech brain-computer interfaces (BCIs) as described in related publications and repositories.
 
 ## Overview
 
