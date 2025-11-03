@@ -1,12 +1,9 @@
 # Neural Decoder for Real-Time Speech Synthesis BCI
 
-This repository contains info for training a neural sequence decoder, based on the work involving speech brain-computer interfaces (BCIs) as described in related publications and repositories.
+This repository provides documentation and curates external links pertaining to a GRU-based neural sequence decoder (GRUDecoder). The referenced projects utilize PyTorch to map neural signals to sequential outputs (e.g., phonemes for speech synthesis) and detail the necessary scripts for data processing, model training, and evaluation.
 
 ## Overview
 
-The code implements a GRU-based decoder model (GRUDecoder) using PyTorch to translate neural signals into sequences (e.g., phonemes for speech synthesis). It includes scripts for data processing, model training, and evaluation.
-
-This work utilizes and references the following resources:
 * GitHub Repo: [cffan/neural_seq_decoder](https://github.com/cffan/neural_seq_decoder/tree/master)
 * GitHub Repo: [fwillett/speechBCI](https://github.com/fwillett/speechBCI)
 * Paper: [A High-Performance Speech Neuroprosthesis](https://www.nature.com/articles/s41586-023-06377-x) 
